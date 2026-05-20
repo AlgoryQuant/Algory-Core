@@ -27,3 +27,4 @@ def add_technical_indicators(df):
 if __name__ == "__main__":
     # Testovací funkce, pokud bys to chtěl spustit
     print("Processor je připraven.")
+    
